@@ -1,0 +1,21 @@
+{
+    "root": true,
+    "extends": [
+        "eslint:recommended"
+    ],
+    "plugins": [],
+    "rules": {
+        "quotes": [
+            1,
+            "single"
+        ],
+        "semi": [
+            1,
+            "always"
+        ]
+    },
+    "parserOptions": {
+        "ecmaVersion": 11,
+        "sourceType": "module"
+    }
+}
